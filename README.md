@@ -1,5 +1,5 @@
 # monday-coffee-analysis
-
+![Monday Coffee Project Banner](1.png)
 
 ```markdown
 # Monday Coffee Database Project
