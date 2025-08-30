@@ -1,5 +1,6 @@
 # monday-coffee-analysis
 ![Monday Coffee Project Banner](1.png)
+![ERD Screenshot](Screenshot%202025-08-31%20at%2012.32.47%20AM.png)
 
 ```markdown
 # Monday Coffee Database Project
