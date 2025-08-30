@@ -1,6 +1,6 @@
 # monday-coffee-analysis
 ![Monday Coffee Project Banner](1.png)
-![ERD Diagram](erd_screenshot.png)
+![ERD Diagram](erd.png)
 ```markdown
 # Monday Coffee Database Project
 
